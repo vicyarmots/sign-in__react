@@ -1,0 +1,21 @@
+main {
+	margin: 10%;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+form {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: column;
+	width: 40vw;
+	height: 40vh;
+}
+
+input,
+button {
+	padding: 0.5rem;
+}

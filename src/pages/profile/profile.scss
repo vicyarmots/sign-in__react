@@ -1,0 +1,15 @@
+.content {
+	width: 40vw;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.code {
+	height: 20vh;
+	padding: 1rem;
+
+	.pre {
+		margin: 0;
+	}
+}
